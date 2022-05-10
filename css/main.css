@@ -96,10 +96,6 @@ body {
     display: inline-block;
 }
 
-.fuenteDelTitulo {
-    font-family: Arial;
-}
-
 @media (min-width: 768px) {
     .masthead-brand {
         float: left;
